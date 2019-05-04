@@ -1,0 +1,41 @@
+.solve {
+    border-radius: 25px;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 48px;
+    margin-top: 0;
+}
+
+body + h1 {
+    border-top: 1px solid green;
+}
+
+h1 {
+    text-align: center;
+    margin: 0;
+    padding: 10px 10px;
+    border-top: 3px dashed black;
+}
+
+.inp {
+    width: 70px;
+    text-align: center;
+    background-image: -webkit-linear-gradient(top, darkgrey, gray);
+    color: black;
+    border-radius: 5px;
+}
+
+.show {
+    text-align: center;
+    display: inline-block;
+}
+
+.center {
+    text-align: center;
+}
+
+#wrapper {
+    max-width: 1000px;
+    margin: 10px auto;
+}
+
